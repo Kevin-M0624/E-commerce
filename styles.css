@@ -79,3 +79,10 @@ header {
     display: flex;
     flex-direction: column;
 }
+
+h1 {
+    font-size: 56px;
+    color: #7342d6;
+    margin-bottom: 24px;
+    text-align: center;
+}
