@@ -304,6 +304,10 @@ footer {
     background-color: #242424 ;
 }
 
+.footer__logo {
+    display: flex;
+}
+
 .footer__logo--img {
     width: 160px;
     filter: grayscale(1) invert(1);
@@ -315,7 +319,7 @@ footer {
 }
 
 footer__list {
-    margin-bottom: 24px;
+    margin: 24px 0;
 }
 
 .footer__link {
