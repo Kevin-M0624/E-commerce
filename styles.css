@@ -313,3 +313,10 @@ footer {
 .footer__copyright {
     color: #fff;
 }
+
+footer__list {
+    margin-bottom: 24px;
+}
+
+.footer__link {
+}
